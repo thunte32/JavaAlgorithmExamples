@@ -6,3 +6,4 @@ The examples are implementations of:
 -Kruskal's Algorithm(Kruskal's Algorithm and Edge classes)
 -Floyd-Warshall's Algorithm(Floyd-Warshall's Algorithm class)
 
+These examples were all written to match assignment requirements.
